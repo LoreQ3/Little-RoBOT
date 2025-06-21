@@ -6,12 +6,6 @@ tags:
   - python
 ---
 
-## 💁‍♀️ How to use
+## 💁‍♀️ Motya_Little_RoBOT
 
-- Clone locally and install packages with pip using `pip install -r requirements.txt`
-- Run locally using `hypercorn main:app --reload`
-
-## 📝 Notes
-
-- To learn about how to use FastAPI with most of its features, you can visit the [FastAPI Documentation](https://fastapi.tiangolo.com/tutorial/)
-- To learn about Hypercorn and how to configure it, read their [Documentation](https://hypercorn.readthedocs.io/)
+Развлекательный бот для семьи с самыми веселыми фразами сына, прогнозом поведения и большой фотоколлекцией, получаемой с Яндекс Диска.
